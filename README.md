@@ -5,3 +5,7 @@
 ## 2. redux 브랜치에서는 context api 를 redux 로 리팩터링 하세요.
 
 ### - context 작업을 다했으면 git checkout -b redux 로 브랜치 생성 및 이동해서 이어서 작업하세요.
+
+# 과제 풀이
+
+## context API로 texts state 리펙토링 하기
